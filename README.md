@@ -3,8 +3,8 @@
 
 ### Skills
 
-- HTML, CSS, Javascript, Java, Python
-- React, Django, Angular
+- HTML, CSS, JavaScript, TypeScript, Java, Python
+- React, Django, Angular, Spring Boot
 - Mybatis, MSSQL, Oracle
 - Apache2, Tomcat
 - Git
