@@ -6,6 +6,7 @@
 - HTML, CSS, JavaScript, TypeScript, Java, Python
 - React, Django, Angular, Spring Boot
 - Mybatis, MSSQL, Oracle
+- Solr
 - Apache2, Tomcat
 - Git
 
