@@ -9,6 +9,7 @@
 - Solr
 - Apache2, Tomcat
 - Git
+- AWS
 
 ### Project Experiences
 - [Automated Programming Assignment Assessment Service and Systems for Github Repositories](https://github.com/JihyeO/Turnincode)
